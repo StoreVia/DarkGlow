@@ -10966,7 +10966,7 @@ body:active .menu-KSaHL1:not(:active) {
 }
 
 .wrapper-3kah-n .childWrapper-1j_1ub {
-  background-color: hsl(var(--accent-hsl--material-you));
+  background-color: #2b2d31;
   border-radius: var(--avatar-radius);
   color: var(--accent-text-color--material-you);
 }
@@ -10986,7 +10986,7 @@ body:active .menu-KSaHL1:not(:active) {
 .circleButtonMask-1_597P,
 .circleIconButton-1VxDrg {
   border-radius: var(--avatar-radius) !important;
-  background-color: hsl(var(--accent-hsl--material-you));
+  background-color: #2b2d31;
   color: var(--accent-text-color--material-you);
 }
 .circleButtonMask-1_597P.selected-2r1Hvo,
