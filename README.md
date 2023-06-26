@@ -1,2 +1,2 @@
 # DarkGlow
-This Is An BetterDiscord Theme With Only One Import
+This Is An BetterDiscord Theme With Super Attracting Design.
